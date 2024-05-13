@@ -6,7 +6,9 @@ Add todos: Users can add new todos by typing in the input field and pressing the
 Remove todos: Users can remove todos by clicking the delete button next to each todo item.
 # Technologies Used
 React: A JavaScript library for building user interfaces.
+
 Redux Toolkit: An opinionated, batteries-included toolset for efficient Redux development.
+
 Redux Persist: A library for persisting Redux state to local storage.
 Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
 
