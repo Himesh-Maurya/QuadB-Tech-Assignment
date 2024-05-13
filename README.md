@@ -1,3 +1,19 @@
+# Redux Toolkit Todo App
+This is a simple Todo application built using React and Redux Toolkit. Users can add todos and remove them.
+
+# Features
+Add todos: Users can add new todos by typing in the input field and pressing the "Add Todo" button.
+Remove todos: Users can remove todos by clicking the delete button next to each todo item.
+# Technologies Used
+React: A JavaScript library for building user interfaces.
+Redux Toolkit: An opinionated, batteries-included toolset for efficient Redux development.
+Redux Persist: A library for persisting Redux state to local storage.
+Tailwind CSS: A utility-first CSS framework for rapidly building custom designs.
+
+# Bonus
+Mark Tasks as Completed: Users can mark tasks as completed by clicking a checkbox next to each task. Completed tasks are visually distinguished from incomplete tasks.
+Persistent Storage: Tasks are saved to local storage, ensuring that they persist across page reloads.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
